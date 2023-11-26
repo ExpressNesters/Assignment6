@@ -4,8 +4,8 @@
 | Name                  | Role |
 |-----------------------|------|
 | Harshith Akkapelli    | Team Member |
-| Sanjay Bhargav Kudupudi | Team Member |
-| Neeharika Singh       | Team Member |
+| Neeharika Singh | Team Member |
+| Sanjay Bhargav Kudupudi       | Team Member |
 
 ## 📁 Parts of the Assignment
 
